@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZZCA_STATWS</ROLLNAME>
+    <DOMNAME>ZZCA_STATWS</DOMNAME>
+    <HEADLEN>30</HEADLEN>
+    <SCRLEN1>07</SCRLEN1>
+    <SCRLEN2>19</SCRLEN2>
+    <SCRLEN3>30</SCRLEN3>
+    <DTELMASTER>P</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>P</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>P</DDLANGUAGE>
+     <DDTEXT>Estado integração de Interface</DDTEXT>
+     <REPTEXT>Estado integração de Interface</REPTEXT>
+     <SCRTEXT_S>Stat.IF</SCRTEXT_S>
+     <SCRTEXT_M>Stat. Integração IF</SCRTEXT_M>
+     <SCRTEXT_L>Estado integração de Interface</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
