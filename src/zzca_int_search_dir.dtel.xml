@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_DTEL" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <DD04V>
+    <ROLLNAME>ZZCA_INT_SEARCH_DIR</ROLLNAME>
+    <DOMNAME>ZZCA_INT_SEARCH_DIR</DOMNAME>
+    <HEADLEN>27</HEADLEN>
+    <SCRLEN1>10</SCRLEN1>
+    <SCRLEN2>15</SCRLEN2>
+    <SCRLEN3>27</SCRLEN3>
+    <DTELMASTER>P</DTELMASTER>
+    <REFKIND>D</REFKIND>
+   </DD04V>
+   <I18N_LANGS>
+    <LANGU>P</LANGU>
+   </I18N_LANGS>
+   <DD04_TEXTS>
+    <item>
+     <DDLANGUAGE>P</DDLANGUAGE>
+     <DDTEXT>Pesquisa na estrutura de INPUT/OUTPUT</DDTEXT>
+     <REPTEXT>Pesquisa em Input ou Output</REPTEXT>
+     <SCRTEXT_S>Pesq.In/OU</SCRTEXT_S>
+     <SCRTEXT_M>Pesquisa In/Out</SCRTEXT_M>
+     <SCRTEXT_L>Pesquisa em Input ou Output</SCRTEXT_L>
+    </item>
+   </DD04_TEXTS>
+  </asx:values>
+ </asx:abap>
+</abapGit>
