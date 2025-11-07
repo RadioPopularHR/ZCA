@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<abapGit version="v1.0.0" serializer="LCL_OBJECT_CLAS" serializer_version="v1.0.0">
+ <asx:abap xmlns:asx="http://www.sap.com/abapxml" version="1.0">
+  <asx:values>
+   <VSEOCLASS>
+    <CLSNAME>ZZCA_CL_HARDC</CLSNAME>
+    <LANGU>P</LANGU>
+    <DESCRIPT>Classe de leitura de hardcodes ZZCA_T_HARDC</DESCRIPT>
+    <STATE>1</STATE>
+    <CLSCCINCL>X</CLSCCINCL>
+    <FIXPT>X</FIXPT>
+    <UNICODE>X</UNICODE>
+   </VSEOCLASS>
+   <DESCRIPTIONS_CLASS>
+    <SEOCLASSTX>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Classe de leitura de hardcodes ZZCA_T_HARDC</DESCRIPT>
+    </SEOCLASSTX>
+   </DESCRIPTIONS_CLASS>
+   <DESCRIPTIONS_SUB>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_HARDCODE_RANGE</CMPNAME>
+     <SCONAME>IV_PARAMETRO</SCONAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Nome do campo</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_HARDCODE_RANGE</CMPNAME>
+     <SCONAME>IV_PROCESSO</SCONAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Nome do programa ABAP</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_HARDCODE_VALUE</CMPNAME>
+     <SCONAME>EV_VALUE</SCONAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Limite Inferior</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_HARDCODE_VALUE</CMPNAME>
+     <SCONAME>IV_ITEM</SCONAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Posição</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_HARDCODE_VALUE</CMPNAME>
+     <SCONAME>IV_PARAMETRO</SCONAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Nome do campo</DESCRIPT>
+    </SEOSUBCOTX>
+    <SEOSUBCOTX>
+     <CMPNAME>GET_HARDCODE_VALUE</CMPNAME>
+     <SCONAME>IV_PROCESSO</SCONAME>
+     <LANGU>P</LANGU>
+     <DESCRIPT>Nome do programa ABAP</DESCRIPT>
+    </SEOSUBCOTX>
+   </DESCRIPTIONS_SUB>
+  </asx:values>
+ </asx:abap>
+</abapGit>
