@@ -15,6 +15,7 @@
     <LANGUAGE>E</LANGUAGE>
     <OBJECTNAME>ZZCA_T_IFCONF</OBJECTNAME>
     <OBJECTTYPE>S</OBJECTTYPE>
+    <DDTEXT>Tabela de configuração para Webservices ZEDI</DDTEXT>
    </OBJT>
    <OBJS>
     <OBJS>
